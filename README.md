@@ -5,4 +5,5 @@
 # tools ---------------------------------------------
 visual studio, visual studio code, replit and git-scm
 
-- all projects currently on hold
+# contact -------------------------------------------
+feel free to message me on Discord at MoonRun3s#2482
