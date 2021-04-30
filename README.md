@@ -1,8 +1,10 @@
-## about me
-a 14y/o node.js and discord.js bot developer who enjoys nothing but computers and crying to sleep.
+# hello there
+i'm moon, a front-end programmer from upstae ny that makes things look pretty.
 
-## what do i do
-i type funny words into a box and they do magic. how does it work, you ask? i dont know.
+### what do i do?
+i specialize in html5, css, node.js development and anything else that looks cool.
 
-## why do i exist
-i literally do not know.
+### how do i do it?
+with a bit of magic and countless cans of coca-cola, my main tools for making my random awesomeness is visual studio, visual studio code, replit and git-scm.
+
+> "how did i do that? wait, it works? what." = me, probably not too long ago
