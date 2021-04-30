@@ -1,10 +1,6 @@
-# hello there
-i'm moon, a front-end programmer from upstae ny that makes things look pretty.
+# MoonRun3s
+your not-so-average programmer who specializes in Node.js, HTML5, CSS and a touch of Lua.
 
-### what do i do?
-i specialize in html5, css, node.js development and anything else that looks cool.
+with a bit of magic and countless cans of coca-cola, the main tools for making my random awesomeness is visual studio, visual studio code, replit and git-scm.
 
-### how do i do it?
-with a bit of magic and countless cans of coca-cola, my main tools for making my random awesomeness is visual studio, visual studio code, replit and git-scm.
-
-> "how did i do that? wait, it works? what." = me, probably not too long ago
+> "cumsum(), haha, get it? it has the funny word in it yeah?" - me
