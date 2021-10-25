@@ -3,7 +3,7 @@
 
 
 # WHO --------------------------------------
-general comp-sci and IT operator.
+general frontend dev and IT specialist.
 
 # WHERE ------------------------------------
 INSIDE THE WALLS.
