@@ -1,16 +1,15 @@
-### Hi there 👋
+### experience
 
-<!--
-**MoonRun3s/MoonRun3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+IDE experience: Replit, VS, VSCode, IntelliJ Idea
++ language experience: Java, Lua, HTML/CSS, JavaScript (Node), Python
+project experience: Java applications, private web service management, automated task programs
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### academics
+```diff
++ AP Computer Science A (enrolled)
+Computer Science A2 (A+)
+Computer Sciece A1 (A+)
++ Advanced math and science curriculum pathways
+```
