@@ -10,6 +10,6 @@ project experience: Java applications, private web service management, automated
 ```diff
 + AP Computer Science A (enrolled)
 Computer Science A2 (A+)
-Computer Sciece A1 (A+)
+Computer Science A1 (A+)
 + advanced math and science curriculum pathways
 ```
